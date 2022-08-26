@@ -1,6 +1,6 @@
 import qrcode
 
-data = 'Don\'t forget to subscribe'
+data = 'https://santanweddings.com'
 
 img = qrcode.make(data)
 
